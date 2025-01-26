@@ -67,6 +67,7 @@ PAINTER일 경우에는 채팅을 할 수 없습니다.
 
 ![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white)
 ![Eclipse](https://img.shields.io/badge/Eclipse-FE7A16.svg?style=for-the-badge&logo=Eclipse&logoColor=white)
+![Socket](https://img.shields.io/badge/Socket%20Programming-FCC624.svg?style=for-the-badge)
 
 <br>
 
