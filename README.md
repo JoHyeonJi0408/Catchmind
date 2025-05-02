@@ -72,7 +72,7 @@ PAINTER일 경우에는 채팅을 할 수 없습니다.
 
 <br>
 
-### 🚀 주요 기능
+### 🚀 수행 업무
 #### 게임 시작
 ![캐치마인드_시작](https://github.com/user-attachments/assets/67d2d5d3-982b-41d1-9386-88c7ec5ebe22)
 #### 캐릭터 선택
