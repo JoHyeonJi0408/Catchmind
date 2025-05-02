@@ -79,7 +79,11 @@ PAINTER일 경우에는 채팅을 할 수 없습니다.
 ![캐치마인드_캐릭터선택](https://github.com/user-attachments/assets/b4017edd-f96a-4635-be77-fd35abc51a66)
 #### 인게임
 ![캐치마인드_인게임](https://github.com/user-attachments/assets/9f2d5ac7-3442-4aba-a9e3-5db1e9e06a7b)
-- 문제 출제
-- 정답 처리
-- 채팅
-- 그림 그리기
+- 클라이언트 담당  
+  - 시작 화면 구성  
+  - 캐릭터 선택 화면 구성 및 기능  
+  - 채팅  
+  - 그림 그리기  
+  - 문제 출체  
+  - 채점  
+- 클라이언트와 서버 간 네트워킹 구현  
